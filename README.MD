@@ -1,11 +1,9 @@
-VOICE  TO TEXT CONVERTER 
-<br>
-USE CASE - listens to me blabbering , automatically categories my thoughts into different buckets and sub buckets. has the option to generate precise point summary of my endless speech.
-<br>
-tech stack - yet to discover. would learn something new
-<br>
-system architecture - yet to design. need a rough mvp idea first.
-<br>
-project plan - dk, would plan after cleaning my room
-<br>
-still not began. 1 day more wasted on bs assignments 
+Thoughtloom
+
+Think out loud. We'll make sense of it.
+
+Thoughtloom is a personal thought-capture and organization system that converts unstructured speech into organized, searchable knowledge.
+
+Instead of forcing users to structure their thoughts before recording them, Thoughtloom allows them to speak freely, stores the raw transcription, intelligently categorizes it into user-defined buckets and sub-buckets, and generates concise summaries for later reflection.
+
+The initial version is being developed as a personal MVP, with the architecture designed to support future web, browser-extension, and desktop clients.
